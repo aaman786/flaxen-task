@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959802302309",
+    "project_id": "auth-f21b7",
+    "storage_bucket": "auth-f21b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959802302309:android:d3517cb767e7e90265cb8c",
+        "android_client_info": {
+          "package_name": "com.example.auth_flaxen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5mTfW90Najyfeem4dxkiStDkqSkAUdqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
